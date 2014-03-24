@@ -1,0 +1,14 @@
+{
+  "id": 1395682149,
+  "title": "Sinatras Kittens",
+  "language": "ruby",
+  "authors": [
+    "Matt_Marcello",
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "templating",
+    "sinatra"
+  ],
+  "level": 3
+}

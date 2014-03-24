@@ -1,0 +1,14 @@
+{
+  "id": 1395684599,
+  "title": "Postcards and Mailboxes",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "objects",
+    "oop",
+    "to_s"
+  ],
+  "level": 2
+}

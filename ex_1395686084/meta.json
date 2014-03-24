@@ -1,0 +1,17 @@
+{
+  "id": 1395686084,
+  "title": "Developer Hash",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden",
+    "Matt_Marcello",
+    "Neel_Patel"
+  ],
+  "tags": [
+    "hashes",
+    "methods",
+    "symbols",
+    "iteration"
+  ],
+  "level": 2
+}

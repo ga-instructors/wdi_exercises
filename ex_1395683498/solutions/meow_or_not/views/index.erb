@@ -1,0 +1,12 @@
+<table border="1px">
+	<% @kittens.each do |kitten| %>
+		<tr>
+
+			<td> <img style="width: 100px;" src="	<%= kitten.url %>" alt="">
+			</td>
+			<td><%= kitten.meow %></td>
+			<td><%= kitten.created_at %></td>
+
+		</tr>
+	<% end %>
+</table>
