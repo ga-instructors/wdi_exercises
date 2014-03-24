@@ -1,0 +1,7 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: comp_forms_app_development
+  pool: 5
+

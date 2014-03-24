@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Manic Monday</title>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>
+		$(function() {
+
+			// $('#input').on('keydown', function() {
+			// 	var fontSize = 10 * this.value.length;
+			// 	$('#user-text').text(this.value).css({'fontSize': fontSize});
+			// });
+
+
+
+			$("#input").on("keyup", function(e) {
+				$("#h1").text($(this).val());
+				setSize();
+			});
+
+			function setSize() {
+				$("#h1").css("font-size", ($("#h1").text().length)*2+"px");
+			}
+		});
+	</script>
+</head>
+<body>
+	<input id="input" type="text">
+	<h1 id="h1"></h1>
+</body>
+</html>

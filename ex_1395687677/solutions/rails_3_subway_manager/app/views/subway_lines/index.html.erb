@@ -1,0 +1,8 @@
+<table>
+	<% @subway_lines.each do |subway_line| %>
+		<tr style="background-color: <%= subway_line.color || 'white' %>">
+			<td><%= link_to subway_line.name, subway_line_path(subway_line) %></td>
+			<td><%= subway_line.stations.count %></td>
+		</tr>
+	<% end %>
+</table>

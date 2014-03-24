@@ -1,0 +1,22 @@
+<h1>A list of people</h1>
+
+<%= form_for @person, remote: true, html: {id: 'person-form'} do |f| %> 
+	<%= f.label :name %>
+	<%= f.text_field :name, id: 'name-field' %>
+	<%= f.collection_select(:state_id, @states, :id, :name) %>
+	<%= f.submit %>
+<% end %>
+
+<ul id="people-list"> 
+	<% @people.each do |person| %>
+		<li><%= person.name %> (<%= person.state.abrv %>)</li>
+	<% end %> 
+</ul>
+
+<script>
+$('#person-form').on('ajax:success', function(e, data, status, xhr) {
+	console.log("IT IS HAPPENING");
+	$('#name-field').val('');
+	$('#people-list').append($('<li>'+ data['name'] + ' ('+data['abrv'] +')</li>'));
+});
+</script>

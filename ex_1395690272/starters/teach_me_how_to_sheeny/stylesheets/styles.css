@@ -1,0 +1,29 @@
+
+.sheen{
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	border-radius: 50%;
+}
+
+.bins{
+	display: inline-block;
+	top: 10em;
+	height: 10em;
+	width: 10em;
+	background-color: darkred;
+	border-radius: 1em;
+	text-align: center;
+	padding: 10px;
+	z-index: -1;
+}
+
+
+body{
+	background-color: lightgray;
+}
+
+
+.basketted{
+	width: '1000px';
+}

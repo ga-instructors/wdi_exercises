@@ -1,0 +1,15 @@
+{
+  "id": 1395687677,
+  "title": "Subway Manager",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden",
+    "Matt_Marcello"
+  ],
+  "tags": [
+    "rails",
+    "seed",
+    "templating"
+  ],
+  "level": 7
+}
