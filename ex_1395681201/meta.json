@@ -1,0 +1,15 @@
+{
+  "id": 1395681201,
+  "title": "1000 Sinatras",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden",
+    "Matt_Marcello"
+  ],
+  "tags": [
+    "sinatra",
+    "iteration",
+    "template"
+  ],
+  "level": 3
+}
