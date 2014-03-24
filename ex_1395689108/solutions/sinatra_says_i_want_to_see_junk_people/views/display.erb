@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head></head>
+<body>
+
+<ol>
+	<% @users_array.each do |user| %>
+		<li>
+			<%= user.first_name %> - <%= user.email %>
+		</li>
+	<% end %>
+</ol>
+
+
+</body>
+</html>

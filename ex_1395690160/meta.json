@@ -1,0 +1,18 @@
+{
+  "id": 1395690160,
+  "title": "Three One One",
+  "language": "Ruby",
+  "authors": [
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "ruby",
+    "rails",
+    "rails_3",
+    "routing",
+    "iteration",
+    "api",
+    "seed_file"
+  ],
+  "level": 6
+}
