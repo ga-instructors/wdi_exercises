@@ -1,0 +1,17 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: flickholdr_development
+  pool: 5
+  username: mattmarcello
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: flickholdr_test
+  pool: 5
+  username: mattmarcello
+  password:
+

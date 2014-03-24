@@ -1,0 +1,15 @@
+<% @hand.each do |card| %> 
+	<div class="card <%= card.suit == ('clubs' || 'spades') ? 'black' : 'red' %>">
+		<div class="top right"><h2><%= card.value %></h2> </div>
+		<div class="top left suit"><h1>&<%= card.suit %>;</h1></div>
+		<div class="bottom left"><h2><%= card.value %></h2> </div>
+	</div>	
+<% end %>
+
+<ul>
+	<% @pairs.each do |k,v| %>
+		<li>
+			<%= "You have #{v} #{k}s" %>
+		</li>
+	<% end %>
+</ul>

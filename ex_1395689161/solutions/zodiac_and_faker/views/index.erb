@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="styles.css">
+
+<table>
+	<% @peeps.each do |peep| %>
+	<tr class="<%= peep.sign.downcase %>">
+		<td><%= peep.name %></td>
+		<td><%= peep.birthday %></td>
+		<td><%= peep.sign %></td>
+	</tr>
+	<% end %>
+</table>
