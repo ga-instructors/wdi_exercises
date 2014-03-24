@@ -1,0 +1,14 @@
+{
+  "id": 1395694308,
+  "title": "Spam Bot",
+  "language": "ruby",
+  "authors": [
+    "Andrew Madden",
+    "Matt Marcello"
+  ],
+  "tags": [
+    "httparty",
+    "regex"
+  ],
+  "level": 9
+}
