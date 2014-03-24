@@ -1,0 +1,11 @@
+.square{
+	width: 8em;
+	height: 8em;
+	margin: 2em;
+	float: left;
+	background-color: blue;
+}
+
+.square:nth-child(3n+2){
+	border-radius: 4em;	
+}
