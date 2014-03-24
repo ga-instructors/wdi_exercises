@@ -1,0 +1,15 @@
+{
+  "id": 1395692476,
+  "title": "Rails Email Bot",
+  "language": "rails",
+  "authors": [
+    "Matt_Marcello",
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "regex", 
+    "postgresql",
+    "scraping"    
+  ],
+  "level": 8
+}

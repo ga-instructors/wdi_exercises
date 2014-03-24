@@ -1,0 +1,13 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: tdd_palindrome_development
+  pool: 5
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: tdd_palindrome_test
+  pool: 5
+
