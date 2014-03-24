@@ -1,0 +1,16 @@
+{
+  "id": 1395690952,
+  "title": "The Arena",
+  "language": "ruby",
+  "authors": [
+    "Neel_Patel"
+  ],
+  "tags": [
+    "ruby",
+    "rails",
+    "iteration",
+    "routing",
+    "postgres"
+  ],
+  "level": 5
+}

@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <th>First name</th>
+    <th>Last name</th>
+    <th>Email address name</th>
+  </tr>
+<% @person_array.each do |person| %>
+<tr>
+<td><%= person.first_name %></td>
+<td><%= person.last_name %></td>
+<td><%= person.email_address%></td>
+</tr>
+<% end %>
+</table>

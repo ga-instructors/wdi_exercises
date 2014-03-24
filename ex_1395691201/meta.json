@@ -1,0 +1,14 @@
+{
+  "id": 1395691201,
+  "title": "String Manipulation Templates",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "regex",
+    "strings",
+    "templating"
+  ],
+  "level": 8
+}

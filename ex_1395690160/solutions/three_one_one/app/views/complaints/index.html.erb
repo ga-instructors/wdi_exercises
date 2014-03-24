@@ -1,0 +1,22 @@
+<table>
+	<thead>
+		<td><strong><%= link_to 'ID', sort_by_path('id') %></strong></td>
+		<td><strong><%= link_to 'Descriptor', sort_by_path('descriptor') %></strong></td>
+		<td><strong><%= link_to 'Zip Code', sort_by_path('zip') %></strong></td>
+		<td><strong><%= link_to 'Latitude', sort_by_path('latitude') %></strong></td>
+		<td><strong><%= link_to 'Longitude', sort_by_path('longitude') %></strong></td>
+		<td><strong><%= link_to 'Address', sort_by_path('address') %></strong></td>
+	</thead>
+	<tbody>
+		<% @complaints.each do |complaint| %>
+		<tr>
+			<td><%= complaint.id %></td>
+			<td><%= complaint.descriptor %></td>
+			<td><%= complaint.zip %></td>
+			<td><%= complaint.latitude %></td>
+			<td><%= complaint.longitude %></td>
+			<td><%= complaint.address %></td>
+		</tr>
+		<% end %>
+	</tbody>
+</table>
