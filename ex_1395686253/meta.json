@@ -1,0 +1,18 @@
+{
+  "id": 1395686253,
+  "title": "Fake People",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "gems",
+    "faker",
+    "oop",
+    "objects",
+    "iteration", 
+    "sinatra", 
+    "erb"
+  ],
+  "level": 2
+}

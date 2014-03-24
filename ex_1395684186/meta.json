@@ -1,0 +1,17 @@
+{
+  "id": 1395684186,
+  "title": "Classy ATM",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden"
+  ],
+  "tags": [
+    "oop",
+    "objects",
+    "control_logic",
+    "classes",
+    "to_s",
+    "methods"
+  ],
+  "level": 2
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1395685846,
+  "title": "There Goes My Hero",
+  "language": "ruby",
+  "authors": [
+    "Andrew_Madden",
+    "Matt_Marcello",
+    "Neel_Patel"
+  ],
+  "tags": [
+    "oop",
+    "objects",
+    "inheritance",
+    "methods"
+  ],
+  "level": 2
+}
