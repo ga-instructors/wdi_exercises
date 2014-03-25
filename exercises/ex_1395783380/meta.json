@@ -1,0 +1,17 @@
+{
+  "id": 1395783380,
+  "title": "Calculator 0.2",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "sinatra",
+    "http",
+    "routing"
+  ],
+  "unit": "3.3",
+  "length": "long",
+  "lesson_name": "HTTP Requests and Responses",
+  "learning_objective": "...respond to a GET request with the value of a given URL parameter"
+}

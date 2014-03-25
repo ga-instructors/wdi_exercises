@@ -1,0 +1,17 @@
+{
+  "id": 1395782940,
+  "title": "Animal Shelter",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "objects",
+    "mult-file",
+    "oop"
+  ],
+  "unit": "2.15",
+  "length": "long",
+  "lesson_name": "objects",
+  "learning_objective": "...use multiple files in a program to organize code"
+}

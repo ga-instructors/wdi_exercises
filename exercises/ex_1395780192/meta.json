@@ -1,0 +1,15 @@
+{
+  "id": 1395780192,
+  "title": "MTA 0.1",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "hashes"
+  ],
+  "unit": "2.7",
+  "length": "long",
+  "lesson_name": "hases",
+  "learning_objective": "...store and retrieve multiple pieces of data in an unordered list as a set of key-value pairs"
+}
