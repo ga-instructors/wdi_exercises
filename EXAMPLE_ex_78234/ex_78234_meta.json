@@ -1,8 +1,0 @@
-{
-	'id': 78234,
-	'title': 'FizzBuzz',
-	'language': ['ruby'],
-	'tags': ['iteration', 'interview_prep', 'control_flow'],
-	'authors': ['Matt_Marcello'],
-	'level': 5,
-}
