@@ -1,0 +1,19 @@
+{
+  "id": 1395842244,
+  "title": "Favorite Things",
+  "language": "javascript",
+  "authors": [
+    "Andrew Madden", 
+    "Matt Marcello"
+  ],
+  "tags": [
+    "javascript",
+    "arrays",
+    "intro",
+    "iteration"
+  ],
+  "unit": "8.2",
+  "length": "short",
+  "lesson_name": "Fundamental JavaScript",
+  "learning_objective": "...understand the different basic data types in JavaScript, and the use of \"var\""
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1395855661,
+  "title": "Simple JavaScript Calculator",
+  "language": "javascript",
+  "authors": [
+
+  ],
+  "tags": [
+    "javascript",
+    "objects",
+    "functions"
+  ],
+  "unit": "3.2",
+  "length": "short",
+  "lesson_name": "JS Syntax and Data Types",
+  "learning_objective": "...build a basic web server that responds to a request"
+}
