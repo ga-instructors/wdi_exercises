@@ -1,5 +1,22 @@
 [
   {
+    "id": 1395776862,
+    "title": "Pair Programming Bot",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "ruby",
+      "sinatra",
+      "css"
+    ],
+    "unit": "3.2",
+    "length": "long",
+    "lesson_name": "Beginning Sinatra",
+    "learning_objective": "...build a basic web server that responds to a request"
+  },
+  {
     "id": 1395779251,
     "title": "Familiarity",
     "language": "ruby",
@@ -172,20 +189,5 @@
     "length": "long",
     "lesson_name": "HTTP Requests and Responses",
     "learning_objective": "...respond to a GET request with the value of a given URL parameter"
-  },
-  {
-    "id": 1395783674,
-    "title": "Pair Programming Bot",
-    "language": "ruby",
-    "authors": [
-
-    ],
-    "tags": [
-
-    ],
-    "unit": "",
-    "length": "",
-    "lesson_name": "",
-    "learning_objective": ""
   }
 ]
