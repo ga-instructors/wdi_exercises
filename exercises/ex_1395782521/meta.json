@@ -1,0 +1,15 @@
+{
+  "id": 1395782521,
+  "title": "Superhero Extending",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "modules"
+  ],
+  "unit": "2.12",
+  "length": "short",
+  "lesson_name": "modules",
+  "learning_objective": "...create reusable code that can be applied to multiple classes"
+}

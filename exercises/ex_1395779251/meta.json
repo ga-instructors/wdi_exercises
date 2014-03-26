@@ -1,0 +1,15 @@
+{
+  "id": 1395779251,
+  "title": "Familiarity",
+  "language": "ruby",
+  "authors": [
+    "Andrew Madden"
+  ],
+  "tags": [
+    "syntax"
+  ],
+  "unit": "2.1",
+  "length": "short",
+  "lesson_name": "syntax",
+  "learning_objective": "...understand the different basic data types and how work with them to discern when to use the right one"
+}

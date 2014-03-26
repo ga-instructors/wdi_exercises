@@ -1,0 +1,15 @@
+{
+  "id": 1395779501,
+  "title": "Guess The Number",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "loops"
+  ],
+  "unit": "2.3",
+  "length": "short",
+  "lesson_name": "loops",
+  "learning_objective": "...use a loop to repeat an operation or action"
+}

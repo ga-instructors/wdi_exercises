@@ -1,0 +1,18 @@
+{
+  "id": 1395780633,
+  "title": "Smoothies",
+  "language": "ruby",
+  "authors": [
+    "Phillip Lamplugh"
+  ],
+  "tags": [
+    "hashes",
+    "arrays",
+    "blocks",
+    "oop"
+  ],
+  "unit": "2.10",
+  "length": "long",
+  "lesson_name": "Objects",
+  "learning_objective": "...understand the different basic data types and how work with them to discern when to use the right one"
+}
