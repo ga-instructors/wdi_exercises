@@ -1,0 +1,16 @@
+{
+  "id": 1395777633,
+  "title": "Lorem WDIpsum",
+  "language": "Javascript",
+  "authors": [
+    "Neel_Patel"
+  ],
+  "tags": [
+    "DOM",
+    "functions"
+  ],
+  "unit": "10.3",
+  "length": "drill",
+  "lesson_name": "jQuery Syntax + DOM Manipulation",
+  "learning_objective": "...use jQuery instead of pure JavaScript to select elements and manipulate their attributes and css"
+}

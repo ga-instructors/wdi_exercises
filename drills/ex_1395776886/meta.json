@@ -1,0 +1,18 @@
+{
+  "id": 1395776886,
+  "title": "The Circle Dance",
+  "language": "Javascript",
+  "authors": [
+    "Neel_Patel"
+  ],
+  "tags": [
+    "jquery",
+    "animation",
+    "css",
+    "events"
+  ],
+  "unit": "10.5",
+  "length": "drill",
+  "lesson_name": "jQuery animation ",
+  "learning_objective": "...create an automated continuous and/or repeated manipulation on a DOM element using jQuery.animate and other built-in functions"
+}
