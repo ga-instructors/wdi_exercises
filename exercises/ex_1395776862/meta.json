@@ -1,0 +1,17 @@
+{
+  "id": 1395776862,
+  "title": "Pair Programming Bot",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "ruby",
+    "sinatra",
+    "css"
+  ],
+  "unit": "3.2",
+  "length": "long",
+  "lesson_name": "Beginning Sinatra",
+  "learning_objective": "...build a basic web server that responds to a request"
+}
