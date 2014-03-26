@@ -1,0 +1,18 @@
+{
+  "id": 1395841031,
+  "title": "Triangle Area",
+  "language": "javascript",
+  "authors": [
+    "Andrew Madden", 
+    "Matt Marcello"
+  ],
+  "tags": [
+    "javascript",
+    "intro",
+    "object_literal"
+  ],
+  "unit": "8.2",
+  "length": "short",
+  "lesson_name": "JS Syntax and Data Types",
+  "learning_objective": "...understand the different basic data types in JavaScript, and the use of \"var\""
+}
