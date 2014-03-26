@@ -542,5 +542,70 @@
       "regex"
     ],
     "level": 9
+  },
+  {
+    "id": 1395695663,
+    "title": "Box Movement",
+    "language": "javascript",
+    "authors": [
+      "Neel_Patel"
+    ],
+    "tags": [
+      "jquery",
+      "events",
+      "key_bindings",
+      "animation",
+      "html",
+      "css"
+    ],
+    "level": 7
+  },
+  {
+    "id": 1395769808,
+    "title": "The Prestige",
+    "language": "Ruby",
+    "authors": [
+      "Neel_Patel"
+    ],
+    "tags": [
+      "oop",
+      "classes",
+      "iteration"
+    ],
+    "level": 4
+  },
+  {
+    "id": 1395776886,
+    "title": "The Circle Dance",
+    "language": "Javascript",
+    "authors": [
+      "Neel_Patel"
+    ],
+    "tags": [
+      "jquery",
+      "animation",
+      "css",
+      "events"
+    ],
+    "unit": "10.5",
+    "length": "drill",
+    "lesson_name": "jQuery animation ",
+    "learning_objective": "...create an automated continuous and/or repeated manipulation on a DOM element using jQuery.animate and other built-in functions"
+  },
+  {
+    "id": 1395777633,
+    "title": "Lorem WDIpsum",
+    "language": "Javascript",
+    "authors": [
+      "Neel_Patel"
+    ],
+    "tags": [
+      "DOM",
+      "functions"
+    ],
+    "unit": "10.3",
+    "length": "drill",
+    "lesson_name": "jQuery Syntax + DOM Manipulation",
+    "learning_objective": "...use jQuery instead of pure JavaScript to select elements and manipulate their attributes and css"
   }
 ]
