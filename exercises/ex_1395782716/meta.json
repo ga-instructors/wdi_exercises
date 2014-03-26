@@ -1,0 +1,15 @@
+{
+  "id": 1395782716,
+  "title": "Gluten Free",
+  "language": "ruby",
+  "authors": [
+    "Phillip Lamplugh"
+  ],
+  "tags": [
+    "exceptions"
+  ],
+  "unit": "2.14",
+  "length": "short",
+  "lesson_name": "exceptions",
+  "learning_objective": "...manage errors in programs and handle exceptions to provide valuable debugging information"
+}

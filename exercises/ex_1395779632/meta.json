@@ -1,0 +1,15 @@
+{
+  "id": 1395779632,
+  "title": "Ruby Calculator 0.1",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "methods"
+  ],
+  "unit": "2.4",
+  "length": "long",
+  "lesson_name": "methods",
+  "learning_objective": "...write reusable code with a method that accepts none, one, or many arguments, performs an operation, and returns an expected data type"
+}

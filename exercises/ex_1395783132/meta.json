@@ -1,0 +1,15 @@
+{
+  "id": 1395783132,
+  "title": "Rental Application",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "objects"
+  ],
+  "unit": "2.15",
+  "length": "long",
+  "lesson_name": "objects",
+  "learning_objective": "...use multiple files in a program to organize code"
+}

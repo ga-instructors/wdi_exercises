@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1395776862,
+    "title": "Pair Programming Bot",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "ruby",
+      "sinatra",
+      "css"
+    ],
+    "unit": "3.2",
+    "length": "long",
+    "lesson_name": "Beginning Sinatra",
+    "learning_objective": "...build a basic web server that responds to a request"
+  },
+  {
+    "id": 1395779251,
+    "title": "Familiarity",
+    "language": "ruby",
+    "authors": [
+      "Andrew Madden"
+    ],
+    "tags": [
+      "syntax"
+    ],
+    "unit": "2.1",
+    "length": "short",
+    "lesson_name": "syntax",
+    "learning_objective": "...understand the different basic data types and how work with them to discern when to use the right one"
+  },
+  {
+    "id": 1395779501,
+    "title": "Guess The Number",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "loops"
+    ],
+    "unit": "2.3",
+    "length": "short",
+    "lesson_name": "loops",
+    "learning_objective": "...use a loop to repeat an operation or action"
+  },
+  {
+    "id": 1395779632,
+    "title": "Ruby Calculator 0.1",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "methods"
+    ],
+    "unit": "2.4",
+    "length": "long",
+    "lesson_name": "methods",
+    "learning_objective": "...write reusable code with a method that accepts none, one, or many arguments, performs an operation, and returns an expected data type"
+  },
+  {
+    "id": 1395780192,
+    "title": "MTA 0.1",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "hashes"
+    ],
+    "unit": "2.7",
+    "length": "long",
+    "lesson_name": "hases",
+    "learning_objective": "...store and retrieve multiple pieces of data in an unordered list as a set of key-value pairs"
+  },
+  {
+    "id": 1395780408,
+    "title": "GA Data Parsing",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "data_parsing",
+      "hashes",
+      "arrays"
+    ],
+    "unit": "2.7",
+    "length": "long",
+    "lesson_name": "hashes",
+    "learning_objective": "...store and retrieve multiple pieces of data in an unordered list as a set of key-value pairs"
+  },
+  {
+    "id": 1395780633,
+    "title": "Smoothies",
+    "language": "ruby",
+    "authors": [
+      "Phillip Lamplugh"
+    ],
+    "tags": [
+      "hashes",
+      "arrays",
+      "blocks",
+      "oop"
+    ],
+    "unit": "2.10",
+    "length": "long",
+    "lesson_name": "Objects",
+    "learning_objective": "...understand the different basic data types and how work with them to discern when to use the right one"
+  },
+  {
+    "id": 1395782521,
+    "title": "Superhero Extending",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "modules"
+    ],
+    "unit": "2.12",
+    "length": "short",
+    "lesson_name": "modules",
+    "learning_objective": "...create reusable code that can be applied to multiple classes"
+  },
+  {
+    "id": 1395782716,
+    "title": "Gluten Free",
+    "language": "ruby",
+    "authors": [
+      "Phillip Lamplugh"
+    ],
+    "tags": [
+      "exceptions"
+    ],
+    "unit": "2.14",
+    "length": "short",
+    "lesson_name": "exceptions",
+    "learning_objective": "...manage errors in programs and handle exceptions to provide valuable debugging information"
+  },
+  {
+    "id": 1395782940,
+    "title": "Animal Shelter",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "objects",
+      "mult-file",
+      "oop"
+    ],
+    "unit": "2.15",
+    "length": "long",
+    "lesson_name": "objects",
+    "learning_objective": "...use multiple files in a program to organize code"
+  },
+  {
+    "id": 1395783132,
+    "title": "Rental Application",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "objects"
+    ],
+    "unit": "2.15",
+    "length": "long",
+    "lesson_name": "objects",
+    "learning_objective": "...use multiple files in a program to organize code"
+  },
+  {
+    "id": 1395783380,
+    "title": "Calculator 0.2",
+    "language": "ruby",
+    "authors": [
+
+    ],
+    "tags": [
+      "sinatra",
+      "http",
+      "routing"
+    ],
+    "unit": "3.3",
+    "length": "long",
+    "lesson_name": "HTTP Requests and Responses",
+    "learning_objective": "...respond to a GET request with the value of a given URL parameter"
+  }
+]
