@@ -1,0 +1,18 @@
+{
+  "id": 1396029377,
+  "title": "Much To-Do about Javascript",
+  "language": "Javascript ",
+  "authors": [
+    "long"
+  ],
+  "tags": [
+    "oop",
+    "dom",
+    "events",
+    "forms"
+  ],
+  "unit": "10.4",
+  "length": "long",
+  "lesson_name": "jQuery Events",
+  "learning_objective": "...create jQuery style event listeners to respond to user interactions, and understand the scope of \"this\""
+}

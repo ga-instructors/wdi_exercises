@@ -1,0 +1,24 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: todo_ajax_development
+  pool: 5
+  username: omardelarosa
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: todo_ajax_test
+  pool: 5
+  username: omardelarosa
+  password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: todo_ajax_production
+  pool: 5
+  username: omardelarosa
+  password:

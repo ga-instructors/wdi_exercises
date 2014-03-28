@@ -1,0 +1,17 @@
+{
+  "id": 1396030848,
+  "title": "Cat Dance",
+  "language": "Javascript",
+  "authors": [
+    "Neel_Patel"
+  ],
+  "tags": [
+    "dom",
+    "animation",
+    "jquery"
+  ],
+  "unit": "10.3",
+  "length": "short",
+  "lesson_name": "jQuery Syntax and DOM Manipulation",
+  "learning_objective": "...use jQuery instead of pure JavaScript to select elements and manipulate their attributes and css"
+}

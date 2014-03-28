@@ -1,0 +1,52 @@
+/* html5doctor.com Reset v1.6.1 - http://cssreset.com */
+
+@import url(http://fonts.googleapis.com/css?family=Nunito);
+html, body {
+  background: url('/images/old_map.png');
+  font-family: 'Nunito', 'Helvetica' ;
+}
+
+#main_container {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  -webkit-box-shadow: 5px 5px 5px 5px #666666;
+  box-shadow: 5px 5px 5px 5px #666666;
+  padding: 10px;
+}
+
+input {
+  font-family: 'Nunito', 'Helvetica';
+}
+
+#tasks_list {
+
+}
+
+.task {
+  width: 80%;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.task span {
+  display: block;
+}
+
+.task_description {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.task_created_at {
+  font-size: 12px;
+}
+
+.completed_task {
+  color: green;
+}
+
+#edit_task_button {
+  display: none;
+}
