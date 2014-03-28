@@ -1,0 +1,17 @@
+{
+  "id": 1395954652,
+  "title": "Moody People",
+  "language": "Javascript",
+  "authors": [
+
+  ],
+  "tags": [
+    "oop",
+    "functions",
+    "inheritance"
+  ],
+  "unit": "8.7",
+  "length": "long",
+  "lesson_name": "JS Objects and this",
+  "learning_objective": "...correctly define and manipulate a JavaScript object, and describe the word \"this\" and how it changes based on object context"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1395944810,
+  "title": "Planets on Rails",
+  "language": "Rails",
+  "authors": [
+
+  ],
+  "tags": [
+    "rails",
+    "forms",
+    "crud",
+    "routing",
+    "mvc",
+    "database",
+    "postgres"
+  ],
+  "unit": "5.7",
+  "length": "long",
+  "lesson_name": "Rails Models",
+  "learning_objective": "...diagram and code a model layer to a Rails app with relationships, and use basic built-in CRUD operations"
+}

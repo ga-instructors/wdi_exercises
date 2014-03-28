@@ -1,0 +1,20 @@
+{
+  "id": 1395945211,
+  "title": "Rails CRUDing with your own models",
+  "language": "Rails",
+  "authors": [
+    "Neel_Patel"
+  ],
+  "tags": [
+    "rails",
+    "models",
+    "associations",
+    "forms",
+    "postgres",
+    "routing"
+  ],
+  "unit": "4.6",
+  "length": "long",
+  "lesson_name": "ActiveRecord with Mutliple Models",
+  "learning_objective": "...establish a 1:many (has_many | belongs_to) relationship with AR to save and retrieve related data"
+}

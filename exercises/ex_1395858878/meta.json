@@ -1,0 +1,18 @@
+{
+  "id": 1395858878,
+  "title": "Sinatra goes to the Movies with OMDBapi",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "sinatra",
+    "erb",
+    "forms",
+    "routing"
+  ],
+  "unit": "3.5",
+  "length": "long",
+  "lesson_name": "HTML Templating with ERB",
+  "learning_objective": "...create dynamic templates by embeding ruby code in HTML with the use of ERB templating"
+}

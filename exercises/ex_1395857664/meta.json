@@ -1,0 +1,17 @@
+{
+  "id": 1395857664,
+  "title": "siMTAra",
+  "language": "ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "sinatra",
+    "erb",
+    "routing"
+  ],
+  "unit": "3.5",
+  "length": "long",
+  "lesson_name": "HTML Templating with ERB",
+  "learning_objective": "...create dynamic templates by embeding ruby code in HTML with the use of ERB templating"
+}

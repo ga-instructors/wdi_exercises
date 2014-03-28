@@ -1,0 +1,18 @@
+{
+  "id": 1395842126,
+  "title": "Big Square",
+  "language": "HTML",
+  "authors": [
+    "Neel_Patel"
+  ],
+  "tags": [
+    "html",
+    "css",
+    "box_model",
+    "positioning"
+  ],
+  "unit": "3.9",
+  "length": "short",
+  "lesson_name": "Big Square",
+  "learning_objective": "...apply CSS to HTML pages to add style and change formatting, spacing, and enhanced visual structure"
+}

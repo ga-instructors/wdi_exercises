@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+# We are using this to parse all the json data
+gem 'json'
+
+# This is a sinatra application
+gem 'sinatra'
+gem 'sinatra-reloader'

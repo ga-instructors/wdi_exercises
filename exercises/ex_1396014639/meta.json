@@ -1,0 +1,18 @@
+{
+  "id": 1396014639,
+  "title": "ATM",
+  "language": "Javascript ",
+  "authors": [
+
+  ],
+  "tags": [
+    "functions",
+    "objects",
+    "oop",
+    "dom"
+  ],
+  "unit": "8.5",
+  "length": "long",
+  "lesson_name": "JS Functions",
+  "learning_objective": "...write reusable code with a method that accepts none, one, or many arguments, performs an operation, and returns an expected data type"
+}

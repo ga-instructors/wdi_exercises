@@ -1,0 +1,15 @@
+{
+  "id": 1396022277,
+  "title": "Hangman",
+  "language": "Javascript ",
+  "authors": [
+
+  ],
+  "tags": [
+    "oop"
+  ],
+  "unit": "9.4",
+  "length": "long",
+  "lesson_name": "Event-driven JS",
+  "learning_objective": "...write JavaScript that captures a user's interaction with the browser and responds visually"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1395954812,
+  "title": "Lost Carrier Pigeon",
+  "language": "Javascript",
+  "authors": [
+
+  ],
+  "tags": [
+    "functions"
+  ],
+  "unit": "8.5",
+  "length": "short",
+  "lesson_name": "JS Functions",
+  "learning_objective": "...write reusable code with a method that accepts none, one, or many arguments, performs an operation, and returns an expected data type"
+}

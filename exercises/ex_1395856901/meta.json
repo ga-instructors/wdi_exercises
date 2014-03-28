@@ -1,0 +1,18 @@
+{
+  "id": 1395856901,
+  "title": "ERB Calculator ",
+  "language": "Ruby",
+  "authors": [
+
+  ],
+  "tags": [
+    "erb",
+    "sinatra",
+    "routing",
+    "views"
+  ],
+  "unit": "3.3",
+  "length": "short",
+  "lesson_name": "HTTP Requests, Responses, and Parameters",
+  "learning_objective": "...respond to a GET request with the value of a given URL parameter"
+}
