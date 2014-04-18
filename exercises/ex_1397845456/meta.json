@@ -1,0 +1,18 @@
+{
+  "id": 1397845456,
+  "title": "Hard of Hearing",
+  "language": "ruby",
+  "authors": [
+    "Matt Marcello"
+  ],
+  "tags": [
+    "ruby",
+    "objects",
+    "rspec",
+    "control_flow"
+  ],
+  "unit": "2.10",
+  "length": "drill",
+  "lesson_name": "Objects and Classes",
+  "learning_objective": "...understand the different basic data types and how work with them to discern when to use the right one"
+}
