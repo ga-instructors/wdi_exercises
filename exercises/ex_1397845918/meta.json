@@ -1,0 +1,21 @@
+{
+  "id": 1397845918,
+  "title": "MovieTrail.er",
+  "language": "rails",
+  "authors": [
+    "Peter Lai"
+  ],
+  "tags": [
+    "database",
+    "activerecord",
+    "mvc",
+    "routes",
+    "views",
+    "rails",
+    "validations"
+  ],
+  "unit": "5.01",
+  "length": "long",
+  "lesson_name": "MVC and Rails",
+  "learning_objective": "...describe how an MVC system works by identifying the key elements, their responsibilities, and how they work together"
+}
