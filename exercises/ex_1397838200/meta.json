@@ -1,0 +1,18 @@
+{
+  "id": 1397838200,
+  "title": "Command Line Calculator",
+  "language": "ruby",
+  "authors": [
+    "Matt Marcello"
+  ],
+  "tags": [
+    "rspec",
+    "ruby",
+    "objects",
+    "methods"
+  ],
+  "unit": "2.10",
+  "length": "short",
+  "lesson_name": "Objects and Classes",
+  "learning_objective": "...understand the different basic data types and how work with them to discern when to use the right one"
+}

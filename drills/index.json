@@ -607,5 +607,22 @@
     "length": "drill",
     "lesson_name": "jQuery Syntax + DOM Manipulation",
     "learning_objective": "...use jQuery instead of pure JavaScript to select elements and manipulate their attributes and css"
+  },
+  {
+    "id": 1397748539,
+    "title": "Animal Sorting",
+    "language": "ruby",
+    "authors": [
+      "Peter Lai"
+    ],
+    "tags": [
+      "ruby",
+      "arrays",
+      "sorting"
+    ],
+    "unit": "2.05",
+    "length": "drill",
+    "lesson_name": "Arrays",
+    "learning_objective": ""
   }
 ]
