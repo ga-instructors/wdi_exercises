@@ -1,31 +1,31 @@
 # 1. Superhero
 class Human
-    attr_accessor :name, :age, :gender
+  attr_accessor :name, :age, :gender
 
-    def initialize(name, age, gender)
-        @name = name
-        @age = age
-        @gender = gender
-    end
+  def initialize(name, age, gender)
+    @name = name
+    @age = age
+    @gender = gender
+  end
 
-    def speak
-        puts "Hi.  I'm #{@name}... a #{age} year old #{gender}"
-    end
+  def speak
+    puts "Hi.  I'm #{@name}... a #{age} year old #{gender}"
+  end
 
 end
 
 module Superhero
-    def speak
-        puts "I am #{@name}!  A Superhero!"
-    end
+  def speak
+    puts "I am #{@name}!  A Superhero!"
+  end
 
-    def fly
-        puts "I am flying!!"
-    end
+  def fly
+    puts "I am flying!!"
+  end
 
-    def save_people
-        puts "I just saved #{rand(100)} people!  no big deal..."
-    end
+  def save_people
+      puts "I just saved #{rand(100)} people!  no big deal..."
+  end
 end
 
 
